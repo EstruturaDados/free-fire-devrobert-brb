@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "modulocadastro.h"
 
 #define MAX_ITEMS 2
 #define MAX_STRING 50
